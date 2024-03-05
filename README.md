@@ -43,6 +43,19 @@ seller: Name of the seller offering the product.
 
 selling_price: Current selling price of the product.
 
+## Steps:
+
+1. The null values were checked in the data set and it was treated.
+2. The data types were checked and data type conversion were made to make the data suitable for further analysis.
+3. The product column in data set was exploded and the categories were separated into columns.
+4. Outliers were identified using Box plot.
+5. Various descriptive statistics were analysed.
+6. The final treated data set was then exported as an excel file.
+7. The exported excel file was then loaded in PowerBI for analysis.
+8. Various parameters were analysed and graphs were plotted.
+9. From the plotted graphs, various insights were found for recommendations.
+    
+
 sub_category: Sub-category to which the product belongs.
 
 url: URL of the product page.
